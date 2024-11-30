@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASMDemo</string>
+    <string-array name="expenseType">
+        <item>Select an expense type</item>
+        <item>Model</item>
+        <item>Study</item>
+        <item>Shopping</item>
+    </string-array>
+</resources>
